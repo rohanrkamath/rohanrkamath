@@ -4,7 +4,7 @@ My name is Rohan Kamath, pursuing my Bachelors in Computer science from PES Univ
 
 Here are some links - 
 
-[Galaxy discord bot](https://www.galaxybot.xyz/)
+[Galaxy Discord Bot](https://www.galaxybot.xyz/)
 
 [Twitter](https://twitter.com/rohan__kamath)
 
