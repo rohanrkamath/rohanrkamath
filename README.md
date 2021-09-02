@@ -6,8 +6,6 @@ Here are some links -
 
 [Galaxy Discord Bot](https://www.galaxybot.xyz/)
 
-[Twitter](https://twitter.com/rohan__kamath)
-
 [LinkedIn](https://www.linkedin.com/in/rohan-kamath-25520714b/)
 
 
