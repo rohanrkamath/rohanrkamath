@@ -1,6 +1,6 @@
-@@ -2,7 +2,7 @@
+Hi, I am Rohan 👋
 
-I like to build stuff using Machine Learning and AI.
+I use this space to display the projects (usually done in my leisure time) that I am currently working or have worked on. 
 
 [![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanrkamath&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
