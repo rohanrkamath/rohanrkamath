@@ -1,13 +1,9 @@
-## Namaste! 
+@@ -2,7 +2,7 @@
 
-My name is Rohan Kamath, pursuing my Bachelors in Computer science from PES University. Alot of my projects revolve around Machine Learning, Full Stack Web Developement and Cybersecurity. 
+I like to build stuff using Machine Learning and AI.
 
-Here are some links - 
+[![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohanrkamath&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[Personal Website](https://www.rohankamath.me/)
-
-[Galaxy Discord Bot](https://www.galaxybot.xyz/)
-
-[LinkedIn](https://www.linkedin.com/in/rohan-kamath-25520714b/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrkamath&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
