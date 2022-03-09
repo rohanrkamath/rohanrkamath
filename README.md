@@ -16,7 +16,7 @@ I use this space to display the projects (usually done in my leisure time) that 
 
 - 👀 All my work is open source 👀
 - 🙂 My preferred pronouns are: He/Him
-- ⚡ Fun fact: I recently picked up the bass, and the first song I tried to play was [Tommy the Cat by Primus](https://www.youtube.com/watch?v=r4OhIU-PmB8) 😉
+- ⚡ Fun fact: I recently picked up the bass, and the first song I tried to play was [Tommy the Cat - Primus](https://www.youtube.com/watch?v=r4OhIU-PmB8) 😉
 
 #### Contact
 
