@@ -10,7 +10,7 @@ I use this space to display the projects (usually done in my leisure time) that 
 
 - 🔭 I am currently applying for my masters in the USA to further excel in the field in computer science 😁
 - 🌱 I am focusing on mastering data structures and algorithms as a hobby 📓
-- 🤔 Presently learning react to further beautify my website 🐢✅
+- 🤔 Presently learning react to further beautify my personal website 🐢✅
 
 #### Bio
 
