@@ -2,7 +2,7 @@ Hi, I am Rohan 👋
 
 I use this space to display the projects (usually done in my leisure time) that I am currently working or have worked on. 
 
-### I work with the Core Data Science team at KPMG as a Data scientist. 
+### I am currently looking for full time opportunities for Summer 24 in the USA. 
 
 #### What am I up to?
 
