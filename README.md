@@ -2,8 +2,6 @@ Hi, I am Rohan 👋
 
 I use this space to display the projects (usually done in my leisure time) that I am currently working or have worked on. 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rohanrkamath.rohanrkamath)
-
 ### I work with the Core Data Science team at KPMG as a Data scientist. 
 
 #### What am I up to?
