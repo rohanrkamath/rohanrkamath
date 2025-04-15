@@ -2,8 +2,6 @@ Hi, I am Rohan 👋
 
 I use this space to display the projects (usually done in my leisure time) that I am currently working or have worked on. 
 
-### I am currently looking for full time opportunities for Summer 24 in the USA. 
-
 #### What am I up to?
 
 - 🔭 I am currently applying for my masters in the USA to further excel in the field in computer science 😁
